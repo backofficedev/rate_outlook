@@ -13,13 +13,13 @@
           "location": {
             "kind": "store",
             "pipeline": "tutorial/macro_basics",
-            "commit": "59a435babee4b70307cf84edaaa4bd88974413bb",
-            "repository": "https://github.com/backofficedev/chartbook",
-            "first_commit": "4b2250592af351f1c2108421519ca43f6ad35cb9"
+            "commit": "7ff87185945b03e60678087d93e2eedacb98d39e",
+            "repository": "https://github.com/backofficedev/macro_basics",
+            "first_commit": "2f7fd44d417594a2addc8f3387d247aa3106f13f"
           },
-          "snapshot": "2026-11-02T22:14:54.791033Z",
+          "snapshot": "2026-11-04T06:07:44.181732Z",
           "pinned_from": "tutorial/macro_basics",
-          "pinned_hash": "sha256:aad637ca403e4ed74a13bfc69b52617847bc0b8b4bbce6be3cb721c67d46bbb2"
+          "pinned_hash": "sha256:fdab5d7627d314ad9a3573ec2d2b54098b904af7bb0a4b30c1b7728b16aa3a46"
         },
         {
           "id": "tutorial/treasury_curve",
@@ -27,13 +27,13 @@
           "location": {
             "kind": "store",
             "pipeline": "tutorial/treasury_curve",
-            "commit": "59a435babee4b70307cf84edaaa4bd88974413bb",
-            "repository": "https://github.com/backofficedev/chartbook",
-            "first_commit": "4b2250592af351f1c2108421519ca43f6ad35cb9"
+            "commit": "e686c8fb5282a0424b8d23b4560d11c564f9847a",
+            "repository": "https://github.com/backofficedev/treasury_curve",
+            "first_commit": "03f48ff3406266b14d3602b04fb236f875322fc6"
           },
-          "snapshot": "2026-11-02T22:14:45.344819Z",
+          "snapshot": "2026-11-04T06:07:38.226894Z",
           "pinned_from": "tutorial/treasury_curve",
-          "pinned_hash": "sha256:15927fb0580f6fdefcd0e6b58b81515b9c2e3e63333af7c39c76e88400dd9999"
+          "pinned_hash": "sha256:eb765dc39da4a9fa9b45301cecd0b61123ef87a90fcd8cdb9e6358a10bf510d9"
         }
       ]
     },
@@ -52,8 +52,8 @@
         "kind": "file",
         "path": "./_output/payrolls.html"
       },
-      "content_hash": "sha256:98ddfd54ecabe6fbb3f24a427f778ebe2aa20635008eefb38956025a4dc5d967",
-      "size_bytes": 41420
+      "content_hash": "sha256:d8719aaecbb2de2b29653f7e2475ce7da148d33466646a2c0aa27619f9e3d4ef",
+      "size_bytes": 41410
     },
     {
       "kind": "Chart",
@@ -70,8 +70,8 @@
         "kind": "file",
         "path": "./_output/unemployment_and_inflation.html"
       },
-      "content_hash": "sha256:0c52cf0e238ee697881e72be003da1b636b35344cf4a657c4c17910f57b7fa79",
-      "size_bytes": 74421
+      "content_hash": "sha256:011dc4e3bed6c5a20caa3350cba2d16a1de2992cc406b1f02c504ca050e7d9de",
+      "size_bytes": 74411
     },
     {
       "kind": "Dataframe",
@@ -106,8 +106,8 @@
         "kind": "file",
         "path": "./_output/curve_today.html"
       },
-      "content_hash": "sha256:14b80a953f0192ddab6cb0aea156f8ca4e91a1044830efeab866ad413f2a7e21",
-      "size_bytes": 8198
+      "content_hash": "sha256:5630e1a75d3f58b0999df498d760fcfde2cb1f1e102f8d7d05b7823fb80529a9",
+      "size_bytes": 8194
     },
     {
       "kind": "Chart",
@@ -124,8 +124,8 @@
         "kind": "file",
         "path": "./_output/yields.html"
       },
-      "content_hash": "sha256:db8cf8390597e12c94bcc67f67e0725784fb458139e15d577bc8a3149b836b79",
-      "size_bytes": 2060364
+      "content_hash": "sha256:f615e0503311b4b3fd5d19c48564d11364b37f531c417fe9b21f9a88f43416a5",
+      "size_bytes": 2060950
     },
     {
       "kind": "Dataframe",
@@ -142,8 +142,8 @@
         "kind": "file",
         "path": "./_data/zero_coupon_yields.parquet"
       },
-      "content_hash": "sha256:09e257d29b70438cc1470aab4153762903a3e734cbabf57d81af2d6b3223e7cc",
-      "size_bytes": 3385866
+      "content_hash": "sha256:c0c89ac3f0f2126c9b90821e734c5d736f27dab80e4264762f654398ceb076fd",
+      "size_bytes": 3387082
     }
   ]
 }

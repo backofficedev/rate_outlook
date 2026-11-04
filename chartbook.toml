@@ -11,8 +11,8 @@ build = "doit"
 # The pipelines this one builds on, by their IDs. `chartbook pin` freezes the snapshot of each
 # that this pipeline reads, in chartbook.lock; `chartbook update` moves the pins.
 [dependencies]
-"tutorial/treasury_curve" = {}
-"tutorial/macro_basics" = {}
+"tutorial/treasury_curve" = { repository = "https://github.com/backofficedev/treasury_curve" }
+"tutorial/macro_basics" = { repository = "https://github.com/backofficedev/macro_basics" }
 
 [dataframes.term_spread]
 name = "Term Spread and Unemployment"
